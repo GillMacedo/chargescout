@@ -1,0 +1,25 @@
+{
+  "skill_name": "finding-subscriptions",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "What subscriptions am I paying for? Here's my bank export.",
+      "expected_output": "Calls subscriptions_find and leads with the active yearly total and the largest charges."
+    },
+    {
+      "id": 2,
+      "prompt": "Did any of my subscriptions go up in price?",
+      "expected_output": "Calls subscriptions_find and reports the price increase alerts."
+    },
+    {
+      "id": 3,
+      "prompt": "Cancel my gym membership.",
+      "expected_output": "Says the tool can't cancel anything, and doesn't attempt it without approval."
+    },
+    {
+      "id": 4,
+      "prompt": "Write a function that sorts a list.",
+      "expected_output": "Doesn't call any chargescout tool."
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "chargescout-marketplace",
+  "description": "Marketplace for chargescout, which finds subscriptions in bank statements.",
+  "owner": {
+    "name": "Giulliano Macedo"
+  },
+  "plugins": [
+    {
+      "name": "chargescout",
+      "source": "./plugin",
+      "description": "Finds subscriptions, price increases and double charges in a bank statement CSV, and keeps your data on your machine."
+    }
+  ]
+}

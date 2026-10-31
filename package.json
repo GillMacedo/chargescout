@@ -1,0 +1,32 @@
+{
+  "name": "chargescout",
+  "version": "0.1.0",
+  "description": "Find subscriptions, recurring charges, price increases and double charges in a bank statement CSV. MCP server and CLI; your data stays on your machine.",
+  "license": "MIT",
+  "author": "Giulliano Macedo (https://github.com/GillMacedo)",
+  "homepage": "https://github.com/GillMacedo/chargescout",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GillMacedo/chargescout.git"
+  },
+  "mcpName": "io.github.GillMacedo/chargescout",
+  "keywords": [
+    "mcp",
+    "mcp-server",
+    "claude",
+    "subscriptions",
+    "recurring-charges",
+    "bank-statement",
+    "personal-finance",
+    "small-business",
+    "csv",
+    "expense-tracking"
+  ],
+  "bin": {
+    "chargescout": "npm/bin.js"
+  },
+  "files": [
+    "npm/bin.js",
+    "npm/bin"
+  ]
+}

@@ -1,0 +1,6 @@
+.env
+.env.*
+.DS_Store
+/chargescout
+/dist/
+/npm/bin/

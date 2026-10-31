@@ -1,0 +1,1 @@
+Handle the bank description format $ARGUMENTS: add a made-up case to `TestMerchantName` in `internal/subs/subs_test.go`, update `noise` in `internal/subs/find.go`, and run `make test`. Never add real data.

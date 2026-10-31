@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "chargescout": {
+      "command": "npx",
+      "args": ["-y", "chargescout@0.1.0", "serve"]
+    }
+  }
+}

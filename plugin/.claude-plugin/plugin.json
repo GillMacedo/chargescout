@@ -1,6 +1,6 @@
 {
   "name": "chargescout",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Finds subscriptions, price increases and double charges in a bank statement CSV, and keeps your data on your machine.",
   "icon": "./logo.svg",
   "author": {

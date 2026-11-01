@@ -1,6 +1,6 @@
 {
   "name": "chargescout",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Find subscriptions, recurring charges, price increases and double charges in a bank statement CSV. MCP server and CLI; your data stays on your machine.",
   "license": "MIT",
   "author": "Giulliano Macedo (https://github.com/GillMacedo)",

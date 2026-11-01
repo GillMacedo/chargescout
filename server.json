@@ -2,13 +2,13 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.GillMacedo/chargescout",
   "description": "Find subscriptions, price increases and double charges in a bank statement CSV, on your machine.",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "repository": { "url": "https://github.com/GillMacedo/chargescout", "source": "github" },
   "packages": [
     {
       "registryType": "npm",
       "identifier": "chargescout",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "transport": { "type": "stdio" },
       "runtimeArguments": [],
       "packageArguments": [{ "type": "positional", "value": "serve" }]
